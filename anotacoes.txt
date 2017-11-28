@@ -1,0 +1,7 @@
+## Criar um novo repositório
+1 - Criar pasta com comando 'mkdir';
+2 - acessá-la com 'cd <nome da pasta>';
+3 - executar comando 'git init';
+
+## Obter um repositório para começar a trabalhar
+
